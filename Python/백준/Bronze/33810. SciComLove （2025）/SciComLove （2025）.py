@@ -1,0 +1,1 @@
+print(sum(1 for o, r in zip(input(), "SciComLove") if o != r))
