@@ -1,0 +1,1 @@
+print("True" if all(int(input()) >= 48 for _ in range(int(input()))) else "False")
